@@ -66,8 +66,8 @@ export default class About extends Component {
 									<div className="desc">
 										<h3>Mobile Development</h3>
 										<p>
-											I have experience bulding mobile mobile applications using React-Native for
-											the front-end and node.js for the backend
+											I have experience bulding mobile applications using React-Native for the
+											front-end and node.js for the backend
 										</p>
 									</div>
 								</div>
