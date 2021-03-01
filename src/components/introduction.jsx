@@ -14,7 +14,7 @@ export default class Introduction extends Component {
 										<div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
 											<div className="slider-text-inner js-fullheight">
 												<div className="desc">
-													<h1>
+													<h1 style={{ color: '#CCE5D9' }}>
 														Hi! <br />
 														I'm Nir
 													</h1>
@@ -24,6 +24,7 @@ export default class Introduction extends Component {
 															href={require('../assets/resume.pdf')}
 															target="_blank"
 															rel="noopener noreferrer"
+															style={{ color: 'white' }}
 														>
 															View CV
 															<i className="icon-download4" />
@@ -42,7 +43,7 @@ export default class Introduction extends Component {
 										<div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
 											<div className="slider-text-inner">
 												<div className="desc">
-													<h1>
+													<h1 style={{ color: '#CCE5D9' }}>
 														I love building
 														<br /> THINGS !!
 													</h1>
@@ -52,6 +53,7 @@ export default class Introduction extends Component {
 															href="https://github.com/nir102030"
 															target="_blank"
 															rel="noopener noreferrer"
+															style={{ color: 'white' }}
 														>
 															View Projects <i className="icon-briefcase3" />
 														</a>
@@ -69,9 +71,9 @@ export default class Introduction extends Component {
 										<div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
 											<div className="slider-text-inner">
 												<div className="desc">
-													<h1>
+													<h1 style={{ color: '#CCE5D9' }}>
 														I often <br />
-														Do sport ...{' '}
+														do sport ...{' '}
 													</h1>
 													<p>
 														<a
@@ -79,6 +81,7 @@ export default class Introduction extends Component {
 															href="https://www.facebook.com/NirKatzPT/"
 															target="_blank"
 															rel="noopener noreferrer"
+															style={{ color: 'white' }}
 														>
 															View professional trainer page <i className="icon-book" />
 														</a>
