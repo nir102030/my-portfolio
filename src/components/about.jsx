@@ -11,15 +11,15 @@ export default class About extends Component {
 								<div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
 									<div className="col-md-12">
 										<div className="about-desc">
-											<span className="heading-meta">About Us</span>
+											<span className="heading-meta">About Me</span>
 											<h2 className="colorlib-heading">Who Am I?</h2>
 											<p>
-												I am a fullstack developer. I studied Industrial Engeineering at
-												Ben-Gurion University with IS as my major. Soon I've relized my future
-												is in coding, and started to explore the programming world, especially
-												mobile and web development. I've started to build my own projects, and I
-												was part of a BGU Hackathon winner project, developing a smart system
-												for exam checking using react and node.js.
+												I am a Fullstack developer. I studied Industrial Engeineering at
+												Ben-Gurion University majoring in Information Systems. Soon, I realized
+												my future is in coding, and started to explore the programming world,
+												particularly Mobile and Web development. I've started to build my own
+												projects, and was a part of a BGU Hackathon winner project, developing a
+												smart system for exam checking using react and node.js.
 											</p>
 											<p>
 												In addition, I work as an application engineer at Quality Forward, and I
@@ -78,11 +78,11 @@ export default class About extends Component {
 										<i className="icon-data" />
 									</span>
 									<div className="desc">
-										<h3>Data Bases</h3>
+										<h3>Databases</h3>
 										<p>
-											As coming from the IE background, I have good grasp over fundamental
-											concepts of DB. I have experience using SQL and no-SQL framworks like
-											SQL-Server and Mongo
+											Coming from the IE background, I have a good grasp over fundamental concepts
+											of DB. I have experience using SQL and no-SQL framworks like SQL-Server and
+											Mongo
 										</p>
 									</div>
 								</div>

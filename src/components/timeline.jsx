@@ -30,11 +30,11 @@ export default class Timeline extends Component {
 												<p>
 													Quality Forward is an early stages startup in the E-QMS field. My
 													responsibilites are developing new features, taking care of costumer
-													requirements, perform integrations and so on. Some of my work
-													involve coding and some involve communication with the customers in
-													order to get wider understanding of their needs and to supply the
-													best result in the system. In my work I'm using JS, Ajax, Jquery,
-													HTML, Python, HTTP protocol and more.
+													requirements, performing integrations etc. Some of my work involve
+													coding and some involve communication with the customers in order to
+													get wider understanding of their needs and to supply the best result
+													in the system. In my work I'm using JS, Ajax, Jquery, HTML, Python,
+													HTTP protocol and more.
 												</p>
 											</div>
 										</div>
@@ -49,9 +49,8 @@ export default class Timeline extends Component {
 													Mobile and Web development Freelance<span></span>
 												</h2>
 												<p>
-													I'm currently making my first steps as a mobile and web freelance
-													developer. I'm working on several projects on these fields in order
-													to achive my first customer.
+													While working on several projects I'm currently making my first
+													steps as a mobile and web freelance
 												</p>
 											</div>
 										</div>
@@ -66,11 +65,11 @@ export default class Timeline extends Component {
 													Undergraduate at Ben-Gurion University <span>2016-2020</span>
 												</h2>
 												<p>
-													I did my bachlore degree studies at Industrial Engeineering with
-													major in IS. I have taken courses like OOP in JAVA, DBs,
-													Algorithems, Machine Learning and more over the years and have
-													better understanding of these subjects. I have also took some
-													external courses on mobile and web development.
+													I did my bachelor's degree in Industrial Engineering majoring in
+													Information Systems. I have taken courses like OOP in JAVA, DBs,
+													Algorithms, Machine Learning etc. and have better understanding of
+													these subjects. I have also took some external courses on mobile and
+													web development.
 												</p>
 											</div>
 										</div>
